@@ -1,0 +1,14 @@
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\bin\Debug\belajarDatabase.exe.config
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\bin\Debug\Mahasiswa.accdb
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\bin\Debug\belajarDatabase.exe
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\bin\Debug\belajarDatabase.pdb
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.Form1.resources
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.Properties.Resources.resources
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.csproj.GenerateResource.Cache
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.exe
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.pdb
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\bin\Debug\belajarDatabase.exe.manifest
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\bin\Debug\belajarDatabase.application
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.exe.manifest
+C:\Users\Embah_Salto\Documents\Visual Studio 2015\Projects\belajarDatabase\belajarDatabase\obj\Debug\belajarDatabase.application
